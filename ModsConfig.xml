@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModsConfigData>
+  <version>1.4.3682 rev778</version>
+  <activeMods>
+    <li>brrainz.harmony</li>
+    <li>ludeon.rimworld</li>
+    <li>vanillaexpanded.backgrounds</li>
+    <li>unlimitedhugs.hugslib</li>
+    <li>crashm.colorcodedmoodbar.11</li>
+    <li>brrainz.cameraplus</li>
+    <li>avilmask.commonsense</li>
+    <li>dubwise.dubsperformanceanalyzer.steam</li>
+    <li>carnysenpai.enableoversizedweapons</li>
+    <li>oskarpotocki.vanillafactionsexpanded.core</li>
+    <li>mlie.heavymeleeweapons</li>
+    <li>orion.hospitality</li>
+    <li>co.uk.epicguru.meleeanimation</li>
+    <li>kathanon.onewaydoors</li>
+    <li>taranchuk.performanceoptimizer</li>
+    <li>uuugggg.replacestuff</li>
+    <li>jaxe.rimhud</li>
+    <li>rooboid.accessoryhairshd</li>
+    <li>petetimessix.simplesidearms</li>
+    <li>weilbyte.snapout</li>
+    <li>vanillaexpanded.vtexe</li>
+    <li>nals.facialanimation</li>
+    <li>vanillaexpanded.vtexe.facialanims</li>
+    <li>murmur.walllight</li>
+    <li>com.yayo.yayoani.continued</li>
+    <li>krkr.rocketman</li>
+  </activeMods>
+  <knownExpansions>
+    <li>ludeon.rimworld</li>
+  </knownExpansions>
+</ModsConfigData>
